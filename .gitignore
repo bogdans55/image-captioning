@@ -1,8 +1,6 @@
 data/*
 test*/*
-features*
-tokenizer*
-model*
+features/features_*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
